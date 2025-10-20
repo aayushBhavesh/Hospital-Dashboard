@@ -36,7 +36,6 @@ This project demonstrates a **real-world data analytics workflow**:
 2. Import the provided SQL file:
    ```bash
    mysql -u root -p < Mysql/hospital_data.sql
-````
 
 3. Verify that the database `hospital_data` is created successfully.
 
