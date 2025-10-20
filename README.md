@@ -3,6 +3,13 @@
 
 A complete **Hospital Management Data Analytics** project that integrates **MySQL**, **Power BI**, and a **Flask-based web uploader** for end-to-end hospital data analysis and visualization.
 
+![Home Dashboard](Output/Home.png)
+![Overview Dashboard](Output/Overview.png)
+![Patient Dashboard](Ouput/Patient.png`)
+![*Doctor Dashboard](Output/Doctor.png)
+![Hospital Dashboard](Output/Hospital.png)
+![Finance Dashboard](Output/Finance.png)
+
 ---
 
 ## 📋 Overview
