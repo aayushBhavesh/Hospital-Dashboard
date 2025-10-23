@@ -5,7 +5,7 @@ A complete **Hospital Management Data Analytics** project that integrates **MySQ
 
 ![Home Dashboard](Output/Home.png)
 ![Overview Dashboard](Output/Overview.png)
-![Patient Dashboard](Ouput/Patient.png`)
+![Patient Dashboard](Ouput/Patient.png)
 ![*Doctor Dashboard](Output/Doctor.png)
 ![Hospital Dashboard](Output/Hospital.png)
 ![Finance Dashboard](Output/Finance.png)
